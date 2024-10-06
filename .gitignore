@@ -1,0 +1,6 @@
+/dist/*
+/build/*
+/YT_Download.spec
+/YT_Download.app*
+.DS_Store
+/ffmpeg/*

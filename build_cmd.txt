@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=app_icon.ico --add-binary "ffmpeg/ffmpeg:ffmpeg" YT_Download.py
